@@ -20,3 +20,10 @@ En la carpeta __client__ se encuentran todos los archivos del front hechos con _
 
 ## Comentarios
 Me gusto bastante el challenge, y me agrada el resultado obtenido.
+Muy interesantes los puntos adicionales:
+  - Los A de UI y JS __no estoy seguro de como hacerlos__
+  - Los B de UI y JS tuve la __intención de hacerlos__:
+    - Para UI entiendo que debería convertir a __PWA__ y __cachear__ archivos usando __serviceWorker__
+    - Para JS sospechaba de __recursividad__, luego noté que en la lista de categorías lo mencionan sutilmente
+
+Luego de esta entrega __planeo continuar__ con los puntos adicionales que tuve __intenciones de resolver__ y finalmente __investigar__ formas para lograr los puntos de los que __no estaba seguro como hacerlos__
